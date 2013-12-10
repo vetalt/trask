@@ -1,0 +1,12 @@
+{
+    "authors": [
+        {
+            "name": "vitaly tarasov",
+            "email": "vitaly.tarasov@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "dev-master",
+	"clevertech/yii-booster": "dev-master"
+    }
+}
