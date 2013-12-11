@@ -64,9 +64,9 @@ class Tasks extends CActiveRecord {
             'title' => 'Title',
             'description' => 'Description',
             'status_id' => 'Status',
-//            'status.title' => 'Status',
+            'status.title' => 'Status',
             'user_id' => 'User',
-//            'user.login' => 'User',
+            'user.login' => 'User',
         );
     }
 
